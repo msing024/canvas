@@ -1,0 +1,20 @@
+.container{
+    border: 3px solid black;
+    border-collapse: collapse;
+    align-items: center;
+    display: flex;
+   max-width:800px; 
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.item1{
+    justify-content: left;
+    padding:20px;
+    border:0px solid black;
+    flex:auto;
+    height: 510px;
+}
